@@ -1,13 +1,13 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
+     "namalu" : "LeonGanz",
+     "nomerlu": "6285608625102",
+     "namabot": "Yui-Chan",
+     "nomerbot": "6285810425814",
      "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
-     "joinGcExtream": true,
+     "copyright" : "LeonGanz",
+     "namaDocument": "Yui-Chan By LeonGanz",
+     "joinGcExtream": false,
 
      "publik": true,
      "forwarding": false,
@@ -20,7 +20,7 @@
      "autotyping" : false,
      "autoread" : true,
      "autoblockcmd" : false, 
-     "autobio" : true,
+     "autobio" : false,
      "autoLevel" : true,
      "AutoClearChat": true,
      "totalForward" : 1000000,
@@ -34,8 +34,8 @@
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
      "font": "simple",                      
-     "self": "SELF",
-     "bot": "BOT",
+     "self": "Yui",
+     "bot": "Chan",
      "ext": "REVOLUTION"
      },
      
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "085608625102",
+     "Gopay" : "085608625102",
+     "Dana" : "085608625102",
+     "Ovo" : "085608625102"
      },
      
      "setPrefix": {
@@ -61,7 +61,7 @@
      "setWelcome": {
      "autoWelcome": false,
      "welcomeType": "type3",
-     "background": "https://tinyurl.com/yxvl8h3a"
+     "background": "https://tinyurl.com/3m2s7kba"
      },    
      
      "setMenu": "document",    
