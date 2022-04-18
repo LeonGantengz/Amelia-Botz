@@ -16,16 +16,17 @@ return`
 *▸* Wa Version: ${wa_version}
 *▸* Os Version: ${os_version}
 *▸* Owner : ${nomerOwner}
-*▸* Tgl pembuatan : 25 Juli 2021
-*▸* Tgl release : 29 September 2021
+*▸* Tgl pembuatan : 2 Ferbuari 2021
+*▸* Tgl release : 21 Juni 2021
 *▸* Tgl sekarang : ${calender}
-*▸* Image : Girl Front Line G11
-*▸* Voice : Nina kawai
+*▸* Image : Yui-Chan
+*▸* Voice : Putri-Azizah
 
 *▸* SCRIPT BY
    Decode Denpa
    X-Dev Team
    Yogi PW
+   LeonGanz
    Hexagon
    Dttaz
 
@@ -36,6 +37,7 @@ return`
    Resta Gamteng
    Zeeone Ofc
    X-Dev Team
+   LeonGanz
    Yudha perdana
    Xchilds
    Dika Ardnt
