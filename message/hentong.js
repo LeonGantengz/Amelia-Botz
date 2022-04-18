@@ -1,31 +1,8 @@
 exports.ahah = (prefix, pushname) => {
 return`
-𝗡𝗦𝗙𝗪 𝗠𝗘𝗡𝗨
+𝗦𝗙𝗪 𝗠𝗘𝗡𝗨
 
- *╭─❲ NSFW ❳*
- *│▸*
- *│▸* ${prefix}neko
- *│▸* ${prefix}waifu
- *│▸* ${prefix}trap
- *│▸* ${prefix}blowjob
- *│▸* ${prefix}yuri
- *│▸* ${prefix}kiss
- *│▸* ${prefix}cum
- *│▸* ${prefix}futanari
- *│▸* ${prefix}hentai
- *│▸* ${prefix}eroyuri
- *│▸* ${prefix}eron
- *│▸* ${prefix}erok
- *│▸* ${prefix}ero
- *│▸* ${prefix}solo
- *│▸* ${prefix}erokemo
- *│▸* ${prefix}fox_girl
- *│▸* ${prefix}feet
- *│▸* ${prefix}les
- *│▸* ${prefix}feed
- *│▸* ${prefix}bj
- *│▸*
- *╰────────────⦁*
+
 					
 					
  *╭─❲ SFW ❳*
