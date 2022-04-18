@@ -6,7 +6,7 @@ Disini adalah data tempat untuk Voice Note milik si Nina
 */
 
 //untuk user saat ada yg bilang botz
-exports.botz =[
+exports.bot =[
 "./Nina Kawai/bot/ada apa kak.mp3",
 "./Nina Kawai/bot/ada apa kak1.mp3",
 "./Nina Kawai/bot/iya kak.mp3",
